@@ -2,7 +2,7 @@
 layout: post
 title: "13 Things You Must Do Every Week As A Startup CEO"
 description: ""
-date: 2017-01-29
+date: 2015-03-24
 tags: []
 comments: true
 ---
