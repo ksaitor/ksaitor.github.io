@@ -1,0 +1,27 @@
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  width: 100%;
+  text-align: center;
+  margin: 2em auto 1em;
+  padding: 2em 0;
+  border-radius: 4px;
+  background-color: blue;
+
+  input {
+    font-size: 24px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+  }
+  input[type="email"] {
+    width: 350px;
+    margin: 0.5em;
+  }
+  input[type="submit"] {
+    cursor: pointer;
+    background-color: white;
+  }
+}
