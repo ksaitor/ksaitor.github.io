@@ -10,9 +10,10 @@ author:
   twitter:          ksaitor
   github:           ksaitor
   linkedin:         ramanshalupau
-  medium:           ramanshalupau
-  # tumblr:           your-id
-  email:            raman.shalupau@gmail.com
+  # medium:           ramanshalupau
+  # email:            raman.shalupau@gmail.com
+  soundcloud:       ksaitor
+  instagram:        ksaitor
 
 copyright:
   year:             2017
@@ -59,12 +60,12 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+  - name:           "Home"
+    url:            "/"
   - name:           "Archive"
     url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
+  - name:           "RSVPD"
+    url:            "https://rsvpd.co"
   - name:           "Twitter"
     url:            "https://twitter.com/ksaitor"
 
