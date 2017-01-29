@@ -3,20 +3,20 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Raman Shalupau @ksaitor"
 
 author:
   facebook:         your-id
-  twitter:          your-id
-  github:           your-id
+  twitter:          ksaitor
+  github:           ksaitor
   linkedin:         your-id
   medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  # tumblr:           your-id
+  email:            raman.shalupau@gmail.com
 
 copyright:
   year:             2017
-  name:             Kiko
+  name:             Raman Shalupau
 
 # Google-analytics
 google-analytics:
@@ -27,13 +27,13 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://ksaitor.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Asia/Singapore
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -54,7 +54,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/ksaitor"
 
 # Sass
 sass:
