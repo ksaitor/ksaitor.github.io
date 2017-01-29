@@ -4,7 +4,7 @@
 
 # Basic
 name:               "Raman Shalupau"
-
+description:        "Raman Shalupau's (Ksaitor) personal blog about tech, music, and other curious onservations in life."
 author:
   facebook:         ramanksaitor
   twitter:          ksaitor
@@ -25,6 +25,18 @@ google-analytics:
 # Disqus
 disqus:
   id:               "ksaitor"
+
+rrssb:
+  facebook: true
+  twitter: true
+  pocket: true
+  email: true
+  linkedin: true
+  reddit: true
+  hackernews: true
+  pinterest: false
+  googleplus: false
+  tumblr: false
 
 # URL
 url:                "https://ksaitor.com" # the base hostname & protocol for your site
@@ -75,6 +87,7 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+      share_buttons: true
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 gems:

@@ -81,5 +81,5 @@ end # task :geminstall
 
 desc "Launch preview environment"
 task :preview do
-  system "jekyll serve --incremental"
+  system "jekyll serve --incremental --watch"
 end # task :preview
