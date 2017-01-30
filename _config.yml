@@ -22,12 +22,13 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               "UA-30171436-1"
+  id:               UA-30171436-1
 
 # Disqus
 disqus:
-  id:               "ksaitor"
+  id:               ksaitor
 
+# RRSSB Social Sharing
 rrssb:
   facebook: true
   twitter: true
@@ -39,6 +40,12 @@ rrssb:
   pinterest: false
   googleplus: false
   tumblr: false
+
+# SEO
+twitter:            ksaitor
+facebook:
+  publisher:        ramanksaitor
+logo:               "/assets/images/profile-square-3.png"
 
 # URL
 url:                "https://ksaitor.com" # the base hostname & protocol for your site
