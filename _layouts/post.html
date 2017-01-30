@@ -9,6 +9,11 @@ layout: default
   <span class="post-date">
     <time>{{ page.date | date_to_string }}</time>
   </span>
+
+  <article>
+  {{ content }}
+  </article>
+
   <div class="post-tag">
     <ul>
       {% for tag in page.tags %}
@@ -21,11 +26,6 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-
-  <article>
-  {{ content }}
-  </article>
-
 
   {% include mailchimp.html %}
   {% include share.html %}

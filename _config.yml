@@ -33,9 +33,9 @@ rrssb:
   facebook: true
   twitter: true
   pocket: true
-  email: true
+  email: false
   linkedin: true
-  reddit: true
+  reddit: false
   hackernews: true
   pinterest: false
   googleplus: false
