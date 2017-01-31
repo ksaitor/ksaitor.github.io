@@ -107,14 +107,14 @@ body {
 .post {
 
   &-title {
-    margin-top: 0rem;
-    margin-bottom: 0rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     font-size: 2em;
   }
 
   &-date {
     margin-bottom: .5rem;
-    color: $oc-gray-8;
+    color: $oc-gray-6;
     font-size: .75rem;
     text-transform: uppercase;
   }

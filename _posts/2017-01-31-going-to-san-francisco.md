@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Going to San Francisco. First time!"
+title: "Going to San Francisco. First timer!"
 description: ""
 date: 2017-01-31
 tags: ['travel', 'sf']

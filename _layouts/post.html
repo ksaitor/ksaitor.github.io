@@ -5,10 +5,10 @@ layout: default
 {% include header.html %}
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">
     <time>{{ page.date | date_to_string }}</time>
   </span>
+  <h1 class="post-title">{{ page.title }}</h1>
 
   <article>
   {{ content }}
