@@ -4,7 +4,7 @@
 
 # Basic
 name:               "Raman Shalupau"
-description:        "Raman Shalupau's (Ksaitor) personal blog about tech, music, and other curious onservations in life."
+description:        "Raman Shalupau's (@ksaitor) personal blog about tech, music, and other curious onservations in life."
 author:
   facebook:         ramanksaitor
   twitter:          ksaitor
@@ -68,12 +68,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "Home"
-    url:            "/"
   - name:           "Archive"
     url:            "/archive"
-  - name:           "RSVPD"
-    url:            "https://rsvpd.co"
   - name:           "Twitter"
     url:            "https://twitter.com/ksaitor"
 

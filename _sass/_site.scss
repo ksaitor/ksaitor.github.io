@@ -33,9 +33,11 @@ body {
   -------------- */
 .header {
   padding: 2%;
+  margin-top: -1em;
 
   &-title {
-    font-weight: 300;
+    font-weight: 800;
+    color: black;
     margin: 0.3em 0;
     font-size: 2em;
     line-height: 1.65em;
@@ -138,19 +140,15 @@ body {
           display: inline-block;
           margin: 4px;
           margin-left: 0px;
-          color: $oc-white;
-          background-color: $oc-gray-6;
+          color: $text-color;
+          background-color: $oc-gray-1;
           text-decoration: none;
           border-radius: 3px;
 
           span {
             float: left;
-            padding: .5px 5px;
+            padding: 5px 10px;
           }
-        }
-
-        a:hover {
-          background-color: $oc-gray-7;
         }
       }
     }
@@ -160,6 +158,33 @@ body {
     margin-top: 4rem;
   }
 
+  .post-share {
+    margin-bottom: 2em;
+  }
+
+}
+
+.meta-header {
+  > * {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .profile-pic {
+    max-height: 60px;
+    border-radius: 100px;
+    padding: 0;
+    margin: 0;
+  }
+  .text {
+    font-size: 15px;
+    padding: 6px 10px;
+    > * {
+      display: block;
+    }
+    .author {
+      color: black;
+    }
+  }
 }
 
 /*--------------
@@ -167,6 +192,7 @@ body {
   -------------- */
 
 .list {
+  margin-top: 1em;
   &-post {
     padding: 4% 2%;
 
@@ -202,6 +228,20 @@ body {
       color: $oc-gray-8;
       margin-bottom: .25rem;
       font-size :1rem;
+    }
+    .continue-reading-btn {
+      font-size: 15px;
+      margin-top: 1em;
+      padding: 0.5em 1.8em;
+      border: 1px solid rgba($text-color,0.7);
+      border-radius: 30px;
+      opacity: 0.6;
+      transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+      &:hover {
+        background: black;
+        color: white;
+        opacity: 1;
+      }
     }
   }
 

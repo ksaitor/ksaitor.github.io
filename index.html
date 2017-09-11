@@ -1,8 +1,22 @@
 ---
 layout: default
 ---
+<header class="header">
+  <h1 class="header-title">
+    {{ site.name }}
+    <img class="profile-pic" src="{{ site.baseurl }}/assets/images/cover.jpg" />
+  </h1>
+  <p>
+    I build products for fun and profit.
+    When I'm not working on my own projects, I like helping companies and entrepreneurs with their tech.
+    Been coding backends and apps in JavaScript for the past 7+ years.
+    Contact me on twitter  <a href="https://twitter.com/ksaitor">@ksaitor</a>
+  </p>
+</header>
+{% include mailchimp.html %}
 
-{% include header.html %}
+
+<!-- {% include header.html %} -->
 
 <div class="list">
 {% if site.posts.size == 0 %}
@@ -22,14 +36,13 @@ layout: default
       <div class="list-post-title">
         {{ post.title }}
       </div>
-      {% if post.description %}
+      {% if post.excerpt %}
       <div class="list-post-desc">
-        {{ post.description }}
+        {{ post.excerpt }}
       </div>
       {% endif %}
     </a>
-
-
+    <a href="{{ post.url | prepend: site.baseurl }}" class="continue-reading-btn">Continue reading →</a>
   </div>
 {% endfor %}
   <!-- Pagination links -->

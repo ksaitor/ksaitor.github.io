@@ -3,17 +3,20 @@
   clear: left;
   width: 100%;
   text-align: center;
-  margin: 2em auto 1em;
-  padding: 2em 0;
-  border-radius: 4px;
-  background-color: blue;
+  h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  p {
+    // font-size: 0.8em;
+  }
 
   input {
-    font-size: 24px;
+    font-size: 18px;
     padding: 0.5em 1em;
     font-weight: bold;
     border-radius: 3px;
-    border: none;
+    border: 1px solid $link-color;
     outline: none;
   }
   input[type="email"] {
@@ -22,6 +25,7 @@
   }
   input[type="submit"] {
     cursor: pointer;
-    background-color: white;
+    background-color: $link-color;
+    color: white;
   }
 }

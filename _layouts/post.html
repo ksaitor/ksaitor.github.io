@@ -2,12 +2,18 @@
 layout: default
 ---
 
-{% include header.html %}
+<div class="meta-header">
+  <a href="{{ site.url }}{{ site.baseurl }}"><img class="profile-pic" src="{{ site.baseurl }}/assets/images/profile-square-3.png" /></a>
+  <div class="text">
+    <a class="author" href="{{ site.url }}{{ site.baseurl }}">Raman Shalupau</a>
+    <span class="post-date">
+      <time>{{ page.date | date_to_string }}</time>
+    </span>
+
+  </div>
+</div>
 
 <div class="post">
-  <span class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
-  </span>
   <h1 class="post-title">{{ page.title }}</h1>
 
   <article>
@@ -27,8 +33,8 @@ layout: default
     </ul>
   </div>
 
-  {% include mailchimp.html %}
   {% include share.html %}
+  {% include mailchimp.html %}
 
   <!-- Disqus -->
   {% if page.comments != false and site.disqus.id %}

@@ -37,14 +37,6 @@ a {
   Header
   -------------- */
 
-header {
-  text-align: center;
-  margin-bottom: 1em;
-  .profile-pic {
-    width: 100px;
-    margin: 0 auto;
-  }
-}
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
@@ -80,14 +72,24 @@ h6 {
   -webkit-margin-after: 1.67em;
 }
 
+.post-title, .list-post-title {
+  color: black;
+  font-size: 2em;
+  font-weight: 800!important;
+  @media (max-width: 38rem){
+    font-size: 1.5em!important;
+  }
+}
+
 /*--------------
   Body Text
   -------------- */
 
 p {
   color: $text-color;
+  -webkit-font-smoothing: antialiased;
   margin: 0 0 1rem;
-  line-height: 1.7em;
+  line-height: 1.7;
 }
 
 /*--------------
