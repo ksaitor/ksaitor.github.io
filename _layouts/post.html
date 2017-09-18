@@ -2,16 +2,7 @@
 layout: default
 ---
 
-<div class="meta-header">
-  <a href="{{ site.url }}{{ site.baseurl }}"><img class="profile-pic" src="{{ site.baseurl }}/assets/images/profile-square-3.png" /></a>
-  <div class="text">
-    <a class="author" href="{{ site.url }}{{ site.baseurl }}">Raman Shalupau</a>
-    <span class="post-date">
-      <time>{{ page.date | date_to_string }}</time>
-    </span>
-
-  </div>
-</div>
+{% include meta-header.html %}
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
@@ -20,6 +11,7 @@ layout: default
   {{ content }}
   </article>
 
+  <hr/>
   <div class="post-tag">
     <ul>
       {% for tag in page.tags %}
@@ -32,8 +24,8 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  {% include meta-header.html %}
 
-  {% include share.html %}
   {% include mailchimp.html %}
 
   <!-- Disqus -->

@@ -3,7 +3,7 @@ layout: post
 title: "Parameterized Jenkins build for rollback purposes."
 description: ""
 date: 2014-04-22
-tags: ['guide']
+tags: ['howto']
 comments: true
 ---
 

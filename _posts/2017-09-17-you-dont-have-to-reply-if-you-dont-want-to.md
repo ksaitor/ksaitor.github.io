@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You dont have to reply, if you ...
+tags: ['howto', 'growth']
 ---
 
 Here is an actionable tip, how to get constructive feedback and resurrect customers.

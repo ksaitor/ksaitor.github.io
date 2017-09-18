@@ -32,7 +32,6 @@ body {
   Header
   -------------- */
 .header {
-  padding: 2%;
   margin-top: -1em;
 
   &-title {
@@ -144,10 +143,14 @@ body {
           background-color: $oc-gray-1;
           text-decoration: none;
           border-radius: 3px;
+          &:hover {
+            background-color: $oc-gray-3;
+          }
 
           span {
             float: left;
             padding: 5px 10px;
+            text-transform: capitalize;
           }
         }
       }
@@ -165,6 +168,7 @@ body {
 }
 
 .meta-header {
+  margin-bottom: 1rem;
   > * {
     display: inline-block;
     vertical-align: top;
@@ -194,7 +198,7 @@ body {
 .list {
   margin-top: 1em;
   &-post {
-    padding: 4% 2%;
+    margin-bottom: 3rem;
 
     a {
       color: $base-color;
