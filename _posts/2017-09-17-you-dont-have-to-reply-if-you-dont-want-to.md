@@ -2,6 +2,7 @@
 layout: post
 title: You dont have to reply, if you ...
 tags: ['howto', 'growth']
+og-image: "https://ksaitor.com/images/magic-phrase.jpg"
 ---
 
 Here is an actionable tip, how to get constructive feedback and resurrect customers.

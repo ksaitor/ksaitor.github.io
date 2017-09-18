@@ -5,6 +5,7 @@ description: ""
 date: 2017-01-31
 tags: ['travel', 'sf']
 comments: true
+og-image: "https://ksaitor.com/images/SanFrancisco_0.jpg"
 ---
 
 ![SanFrancisco](/images/SanFrancisco_0.jpg)

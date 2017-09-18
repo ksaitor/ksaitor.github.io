@@ -15,10 +15,15 @@
 
 {% seo %}
 
-<meta property="og:image" content="{{ site.url }}/assets/images/fb-og.jpg"/>
-<meta name="twitter:image" content="{{ site.url }}/assets/images/fb-og.jpg"/>
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@ksaitor">
+{% if page.og-image %}
+  {% assign og-image = page.og-image %}
+{% else %}
+  {% assign og-image = site.url | append: '/assets/images/fb-og.jpg' %}
+{% endif %}
+<meta name="twitter:image" content="{{ og-image }}"/>
+<meta property="og:image" content="{{ og-image }}"/>
 
 {% if page.layout == post %}
   {% assign seo-description = page.content | strip_html | truncatewords: 30 %}
