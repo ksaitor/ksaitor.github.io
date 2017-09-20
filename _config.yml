@@ -14,7 +14,6 @@ author:
   # email:            raman.shalupau@gmail.com
   soundcloud:       ksaitor
   instagram:        ksaitor
-  whale:            ksaitor
 
 copyright:
   year:             2017
@@ -99,5 +98,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-admin
+  - jekyll-sitemap
 
 exclude:            [vendor]
