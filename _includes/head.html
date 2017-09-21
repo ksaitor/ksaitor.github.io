@@ -1,21 +1,15 @@
 <head>
 <meta charset="utf-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-
 <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/images/profile-square-3.png" />
-
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800&amp;subset=cyrillic">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'> -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" type="text/css">
-
 <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 {% seo %}
-
-<meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@ksaitor">
 {% if page.og-image %}
   {% assign og-image = page.og-image %}
@@ -24,16 +18,12 @@
 {% endif %}
 <meta name="twitter:image" content="{{ og-image }}"/>
 <meta property="og:image" content="{{ og-image }}"/>
-
 {% if page.layout == post %}
   {% assign seo-description = page.content | strip_html | truncatewords: 30 %}
 {% else %}
   {% assign seo-description = site.description %}
 {% endif %}
-<meta name="description" content="{{ seo-description }}">
 <meta name="twitter:description" content="{{ seo-description }}">
-<meta property="og:description" content="{{ seo-description }}">
 
 {% include google-analytics.html %}
-
 </head>
