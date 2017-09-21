@@ -15,7 +15,7 @@ A brief explanation of what I'm doing here:
 - That's where it is super important what you say. And the magic phrase is: **"You don't have to reply if you don't want to"**.
 
 Magic! This makes people feel in control, that they are free from expectations to respond.
-Did this several times (fortunately few people unsubscribe from [ReadByHumans](https://readbyhumans.com)) — works every time!
+Did this several times (fortunately few people unsubscribe from [ReadByHumans](https://readbyhumans.com){:target="_blank"}) — works every time!
 
 ![Magic](/images/magic-phrase.jpg)
 
