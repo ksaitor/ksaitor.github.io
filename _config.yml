@@ -4,7 +4,7 @@
 
 # Basic
 name:               "Raman Shalupau"
-description:        "Raman's blog about tech, music, and other curious observations in life."
+description:        "Essays on tech, music, Singapore and other curious observations in life at ksaitor.com"
 author:
   facebook:         ramanksaitor
   twitter:          ksaitor
@@ -41,6 +41,7 @@ rrssb:
   tumblr: false
 
 # SEO
+title:              "Raman Shalupau"
 twitter:            ksaitor
 facebook:
   publisher:        "https://facebook.com/ramanksaitor"
