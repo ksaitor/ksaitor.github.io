@@ -2,7 +2,8 @@
 layout: post
 title: How I in-validated a business idea in 3 months with little code, while traveling the world ✈️
 date: 2017-09-28
-tags: ['sf','startups','podcasts','failure']
+tags: ['startups','podcasts','failure', 'sf', 'singapore', 'bali']
+og-image: "https://ksaitor.com/images/readbyhumans-postmortem/IMG_8422.JPG"
 ---
 
 In this article I’ll share with you how I validated a fresh idea, by focusing on metrics instead of lines of code; did that in 3 months, instead of 2.5+ years in my previous startup; got accepted in Y Combinator’s Startup School. All while traveling across San Francisco, Singapore and Bali. Buckle up!
