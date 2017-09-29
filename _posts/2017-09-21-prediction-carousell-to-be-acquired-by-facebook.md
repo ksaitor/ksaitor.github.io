@@ -6,11 +6,11 @@ tags: ['startups','facebook','carousell','singapore','predictions']
 og-image: "https://ksaitor.com/images/facebook-carousell-cover.jpg"
 ---
 
+A few years ago I jokingly predicted that [Carousell](https://carousell.com){:target="_blank"} will be more valuable then [RedMart](https://redmart.com){:target="_blank"} (disclaimer, I'm an ex-Redmart employee). Both companies are great and valuable, it's just I'm very bullish on everything with network effects. That includes cryptocurrencies, yes.
+
 ![Carousell and Facebook](/images/facebook-carousell-cover.jpg)
 
 > Because predictions are fun to make — let's make one!
-
-A few years ago I jokingly predicted that [Carousell](https://carousell.com){:target="_blank"} will be more valuable then [RedMart](https://redmart.com){:target="_blank"} (disclaimer, I'm an ex-Redmart employee). Both companies are great and valuable, it's just I'm very bullish on everything with network effects. That includes cryptocurrencies, yes.
 
 I remember my friends, who were in that conversation, laughed! Or just politely smiled and shook their heads. Fast forward today. That silly prediction appears to be true. Correct me if I'm wrong — please comment below. Sadly, at that time I didn't blog about that prediction. Thought it would be fun do it now.
 

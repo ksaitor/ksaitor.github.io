@@ -237,7 +237,7 @@ Seems like ReadByHumans had good, healthy numbers. However getting those 15k hit
 
 For the upcoming several weeks, I did not want to invest more time in growing sign-ups. Instead, I wanted to focus on making my service loved by existing users. I wanted to email each of them personally, understand why did they sign up, their expectations, their needs, and what would they pay for. Yes! It’s a good idea to ask about money ASAP. This was not meant to be a Silicon Valley type project, where I’d raise 1.5 Gazillion of dollars and subsidize growth forever without thinking of making a profit. I wanted to validate that people would pay for something here and do that fast.
 
-I learned a few lessons on how to get genuine feedback from users and previously covered them in my other post “[You dont have to reply…](https://ksaitor.com/2017-09-17/you-dont-have-to-reply-if-you-dont-want-to/){:target="_blank"}”
+I learned a few lessons on how to get genuine feedback from users and previously covered them in my other post “[You dont have to reply…](/2017-09-17/you-dont-have-to-reply-if-you-dont-want-to/){:target="_blank"}”
 
 ### So why did we shut down?
 
@@ -272,7 +272,7 @@ Special thanks to all who helped me with ReadByHumans along the way! Close frien
 
 ### Stay in Touch! 
 
-Hope this was useful! If you enjoyed this read, please clap below and share with friends. You can also reach me on twitter [@ksaitor](https://twitter.com/ksaitor){:target="_blank"}. If you’d like to save this article, I’ve prepared a downloadable [PDF for free here](https://ksaitor.com/images/readbyhumans-postmortem/How%2520I%2520in-validated%2520a%2520business%2520idea%2520in%25203%2520months%2520with%2520little%2520code%2C%2520while%2520traveling%2520the%2520world%2520-%2520by%2520Raman%2520Shalupau%2520%40ksaitor.pdf){:target="_blank"}.  
+Hope this was useful! If you enjoyed this read, please clap below and share with friends. You can also reach me on twitter [@ksaitor](https://twitter.com/ksaitor){:target="_blank"}. If you’d like to save this article, I’ve prepared a downloadable [PDF for free here](/images/readbyhumans-postmortem/How%2520I%2520in-validated%2520a%2520business%2520idea%2520in%25203%2520months%2520with%2520little%2520code%2C%2520while%2520traveling%2520the%2520world%2520-%2520by%2520Raman%2520Shalupau%2520%40ksaitor.pdf){:target="_blank"}.  
 You can engage me on freelance basis, if you need some js, react, node, ui/ux or growth help. Ready to help! 👋
 
 ![Raman Shalupau](https://cdn-images-1.medium.com/max/2000/1*Hyi3XkqzK9K6aEM-JcNQGQ.jpeg)

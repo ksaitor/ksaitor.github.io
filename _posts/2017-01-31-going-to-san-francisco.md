@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Going to San Francisco. First timer!"
-description: ""
 date: 2017-01-31
 tags: ['travel', 'sf']
 comments: true
 og-image: "https://ksaitor.com/images/SanFrancisco_0.jpg"
 ---
 
-![SanFrancisco](/images/SanFrancisco_0.jpg)
-
 This trip will be special for me. A significant part of childhood and teen years I’ve spent in the US (Maryland, then NYC and Cape Cod). Every summer, since the age of 14 I’d go. That’s where my accent is from (many people wonder) and part of my culture.
+
+![SanFrancisco](/images/SanFrancisco_0.jpg)
 
 I haven’t been in the US for the past 5 years. Coming back is thrilling. However, things are different there now. The political situation is so crazy it makes me worry… After opening Twitter over the weekend, I’ve actually started questioning whether my multiple-entry B1/B2 visa, that US Embassy in Kiev happily gave me last week, will let me into the country?! Or will The Republic of San Francisco be happy to have me anyway? :)
 
