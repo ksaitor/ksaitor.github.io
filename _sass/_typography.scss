@@ -23,7 +23,7 @@ body {
   Link
   -------------- */
 a {
-  color: $link-color;
+  color: $text-color;
   text-decoration: none;
 
   &:hover,
@@ -40,7 +40,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
-  margin-bottom: 1em;
+  margin-bottom: 0em;
 }
 
 h1 {
@@ -62,8 +62,8 @@ h3, h4, h5, h6 {
 
 h1 { font-size: 2.7em; }
 h2 { font-size: 2em; }
-h3 { font-size: 1.33em; }
-h4 { font-size: 1.33em; color: $oc-gray-6; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.1em; }
 h5 { font-size: 1em; }
 h6 {
   font-size: 1em;
@@ -90,6 +90,16 @@ p {
   -webkit-font-smoothing: antialiased;
   margin: 0 0 1rem;
   line-height: 1.7;
+  a {
+    border-bottom: 1px solid #333;
+    &:hover, &:active, &:visited, &:focus {
+      text-decoration: none;
+      border-bottom: 2px solid #000;
+    }
+  }
+  img {
+    border-radius: 0;
+  }
 }
 
 /*--------------
