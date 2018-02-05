@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "FocusTrakr, Heatmaps and focus analytics   My project from 2012"
+title: "FocusTrakr, Heatmaps and focus analytics"
 description: "Back in 2012 I wrote FocusTrackr — and analytics "
-date: 2018-02-05
+date: 2012-05-23
 tags: ['javascript', 'js', 'engineering']
 comments: true
 og-image: "https://ksaitor.com/images/focustrakr/cover.png"
