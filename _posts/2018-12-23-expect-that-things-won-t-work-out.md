@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Expect that things won't work out
+og-image: "https://i.imgur.com/knEmApG.png"
 ---
 
 
@@ -9,6 +10,8 @@ Expect that things won't work out. But do your best work anyway.
 All major breaks, all success that I had this year —  I'd like to attribute to this approach. To having low expectations. So low, they are often negative, in fact. Best things happened when I expected things to backfire, to get embarrassed, to just waste time and effort.
 
 If you have an imposter syndrome; anxious about your achievements and your future; you are ambitious, you hold yourself and others to high standards, got big goals… but still feel like you are not hitting them? In your 20s and still have not built a billion dollar startup? (like those kids in TechCrunch articles) — I advise you to take the above-mentioned approach then.
+
+![](https://i.imgur.com/knEmApG.png)
 
 Let's consider examples of how this works. I'll share 3 unexpected successes from my life in this year (2018), that started off from really low, nearly negative expectations:
 
