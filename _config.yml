@@ -6,7 +6,7 @@
 name: 'Raman Shalupau'
 description: 'Essays on tech, music, Singapore and other curious observations in life at ksaitor.com'
 author:
-  facebook: ramanksaitor
+  # facebook: ramanksaitor
   twitter: ksaitor
   github: ksaitor
   linkedin: ramanshalupau

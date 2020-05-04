@@ -117,7 +117,6 @@ body {
     margin-bottom: 0.5rem;
     color: $oc-gray-6;
     font-size: 0.75rem;
-    text-transform: uppercase;
   }
 
   &-tag {
@@ -168,6 +167,7 @@ body {
 
 .meta-header {
   margin-bottom: 1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   > * {
     display: inline-block;
     vertical-align: top;
@@ -219,7 +219,6 @@ body {
     &-date {
       color: $oc-gray-7;
       font-size: 0.8rem;
-      text-transform: uppercase;
     }
 
     &-desc {
