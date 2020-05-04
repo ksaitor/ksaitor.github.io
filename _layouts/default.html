@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    <div class="content-container">
-      {{ content }} {% include footer.html %} {% include js.html %}
-    </div>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', user => {
-          if (!user) {
-            window.netlifyIdentity.on('login', () => {
-              document.location.href = '/admin/'
-            })
-          }
-        })
-      }
-    </script>
-  </body>
+{% include head.html %}
+
+<body>
+  <div class="content-container">
+    {{ content }} {% include footer.html %} {% include js.html %}
+  </div>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', user => {
+        if (!user) {
+          window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/'
+          })
+        }
+      })
+    }
+  </script>
+</body>
+
 </html>
