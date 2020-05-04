@@ -168,6 +168,9 @@ body {
 .meta-header {
   margin-bottom: 1rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+
   > * {
     display: inline-block;
     vertical-align: top;
@@ -187,6 +190,11 @@ body {
     .author {
       color: black;
     }
+  }
+
+  .twitter-conteiner {
+    flex-grow: 2;
+    text-align: right;
   }
 }
 

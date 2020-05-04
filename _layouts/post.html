@@ -8,10 +8,10 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
 
   <article>
-  {{ content }}
+    {{ content }}
   </article>
 
-  <hr/>
+  <hr />
   <div class="post-tag">
     <ul>
       {% for tag in page.tags %}
@@ -24,15 +24,15 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-  {% include meta-header.html %}
 
-  {% include mailchimp.html %}
+  <iframe src="https://ksaitor.substack.com/embed" width="100%" height="320"
+    style="border: 1px solid #eee; background: white;" frameborder="0" scrolling="no"></iframe>
 
   <!-- Disqus -->
   {% if page.comments != false and site.disqus.id %}
   <div class="post-disqus">
-      <section id="disqus_thread"></section>
-      {% include disqus.html %}
+    <section id="disqus_thread"></section>
+    {% include disqus.html %}
   </div>
   {% endif %}
 
