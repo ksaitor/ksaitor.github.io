@@ -1,7 +1,7 @@
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
@@ -17,18 +17,18 @@ body {
 }
 
 .content-container {
-  max-width: 48rem;
+  max-width: 66ch;
   padding: 3rem 1rem 5rem;
-  margin-left:  auto;
+  margin-left: auto;
   margin-right: auto;
 
-  @media (max-width: 48rem){
+  @media (max-width: 48rem) {
     padding: 2rem 1.3rem;
   }
 }
 
 .hide {
-  display: none!important;
+  display: none !important;
 }
 
 /*--------------
@@ -55,17 +55,16 @@ body {
     span {
       color: $oc-gray-5;
     }
-
   }
 
   &-nav {
     a {
       text-transform: uppercase;
       color: $oc-gray-9;
-      -webkit-transition: all .2s ease;
-         -moz-transition: all .2s ease;
-              transition: all .2s ease;
-      margin: 0 .3rem;
+      -webkit-transition: all 0.2s ease;
+      -moz-transition: all 0.2s ease;
+      transition: all 0.2s ease;
+      margin: 0 0.3rem;
 
       &:hover,
       &:focus {
@@ -78,8 +77,8 @@ body {
 
 .header-small {
   text-align: left;
-  margin-bottom: .75rem;
-  font-size: .75rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
 
@@ -104,12 +103,10 @@ body {
   }
 }
 
-
 /*--------------
   Post
   -------------- */
 .post {
-
   &-title {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -117,23 +114,23 @@ body {
   }
 
   &-date {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
     color: $oc-gray-6;
-    font-size: .75rem;
+    font-size: 0.75rem;
     text-transform: uppercase;
   }
 
-   &-tag {
+  &-tag {
     margin-bottom: 1rem;
 
     ul {
       li:before {
-        content: ""
+        content: '';
       }
 
       li {
         margin: 0;
-        font-size: .75rem;
+        font-size: 0.75rem;
         display: inline;
         list-style-type: none;
         text-transform: lowercase;
@@ -167,7 +164,6 @@ body {
   .post-share {
     margin-bottom: 2em;
   }
-
 }
 
 .meta-header {
@@ -214,28 +210,28 @@ body {
 
     &-title {
       margin-top: 0;
-      margin-bottom: .3rem;
-      font-size : 2rem;
+      margin-bottom: 0.3rem;
+      font-size: 2rem;
       font-weight: 600;
       font-size: 2em;
     }
 
     &-date {
       color: $oc-gray-7;
-      font-size: .8rem;
+      font-size: 0.8rem;
       text-transform: uppercase;
     }
 
     &-desc {
       color: $oc-gray-8;
-      margin-bottom: .25rem;
-      font-size :1rem;
+      margin-bottom: 0.25rem;
+      font-size: 1rem;
     }
     .continue-reading-btn {
       font-size: 15px;
       margin-top: 1em;
       padding: 0.5em 1.8em;
-      border: 1px solid rgba($text-color,0.7);
+      border: 1px solid rgba($text-color, 0.7);
       border-radius: 30px;
       opacity: 0.6;
       transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
@@ -282,7 +278,6 @@ body {
   }
 }
 
-
 /*--------------
   Tags
   -------------- */
@@ -290,7 +285,7 @@ body {
   &-index {
     ul {
       li:before {
-        content: ""
+        content: '';
       }
 
       li {
@@ -311,7 +306,7 @@ body {
 
           span {
             float: left;
-            padding: .5px 5px;
+            padding: 0.5px 5px;
           }
 
           .count {
@@ -349,7 +344,7 @@ body {
       text-decoration: none;
       background-color: $background-over-color;
       border-color: transparent;
-      }
+    }
   }
 }
 
@@ -362,8 +357,8 @@ body {
       padding: 0.1rem;
 
       &:hover {
-          background-color: $background-over-color;
-          border-color: transparent;
+        background-color: $background-over-color;
+        border-color: transparent;
       }
 
       a {
@@ -376,29 +371,28 @@ body {
       }
 
       &-title {
-        font-size : 1.2rem;
+        font-size: 1.2rem;
         font-weight: 600;
       }
 
       &-date {
         color: $base-lighten-color;
-        font-size: .75rem;
+        font-size: 0.75rem;
         text-transform: uppercase;
       }
     }
   }
 }
 
-
 /*--------------
   Footer
   -------------- */
 .footer {
   text-align: center;
-  font-size: .75rem;
+  font-size: 0.75rem;
 
   &-link {
-    margin: .2rem;
+    margin: 0.2rem;
     font-size: 1rem;
 
     a {
