@@ -3,29 +3,30 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Raman Shalupau"
-description:        "Essays on tech, music, Singapore and other curious observations in life at ksaitor.com"
+name: 'Raman Shalupau'
+description: 'Essays on tech, music, Singapore and other curious observations in life at ksaitor.com'
 author:
-  facebook:         ramanksaitor
-  twitter:          ksaitor
-  github:           ksaitor
-  linkedin:         ramanshalupau
+  facebook: ramanksaitor
+  twitter: ksaitor
+  github: ksaitor
+  linkedin: ramanshalupau
   # medium:           ramanshalupau
   # email:            raman.shalupau@gmail.com
-  soundcloud:       ksaitor
-  instagram:        ksaitor
+  soundcloud: ksaitor
+  instagram: ksaitor
+  youtube: https://www.youtube.com/channel/UCPr3svxWJzJuog9R_-tKOUw
 
 copyright:
-  year:             2018
-  name:             Raman Shalupau
+  year: 2020
+  name: Raman Shalupau
 
 # Google-analytics
 google-analytics:
-  id:               UA-30171436-1
+  id: UA-30171436-1
 
 # Disqus
 disqus:
-  id:               ksaitor
+  id: ksaitor
 
 # RRSSB Social Sharing
 rrssb:
@@ -41,57 +42,54 @@ rrssb:
   tumblr: false
 
 # SEO
-title:              "Raman Shalupau"
-twitter:            ksaitor
+title: 'Raman Shalupau'
+twitter: ksaitor
 facebook:
-  publisher:        "https://facebook.com/ramanksaitor"
-logo:               "/assets/images/fb-og.jpg"
+  publisher: 'https://facebook.com/ramanksaitor'
+logo: '/assets/images/fb-og.jpg'
 
 # URL
-url:                "https://ksaitor.com" # the base hostname & protocol for your site
+url: 'https://ksaitor.com' # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "" # the subpath of your site, e.g. /blog
-
+baseurl: '' # the subpath of your site, e.g. /blog
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Singapore
-permalink:          /:year-:month-:day/:title/
+timezone: Asia/Singapore
+permalink: /:year-:month-:day/:title/
 
 # Pagination
-paginate:           5
-paginate_path:      /page:num/
+paginate: 5
+paginate_path: /page:num/
 
 # Markdown
-markdown:           kramdown
+markdown: kramdown
 kramdown:
-  input:            GFM
+  input: GFM
 
 # Navigation
 nav:
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Twitter"
-    url:            "https://twitter.com/ksaitor"
+  - name: 'Archive'
+    url: '/archive'
+  - name: 'Twitter'
+    url: 'https://twitter.com/ksaitor'
 
 # Sass
 sass:
-  sass_dir:         _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # Scopes
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
+  - scope:
+      path: ''
+      type: 'pages'
     values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'posts'
     values:
-      layout:       "post"
+      layout: 'post'
       share_buttons: true
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
@@ -101,4 +99,4 @@ gems:
   - jekyll-admin
   - jekyll-sitemap
 
-exclude:            [vendor]
+exclude: [vendor]
