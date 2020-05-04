@@ -2,6 +2,8 @@
 layout: post
 title: What I learned in my 20s
 og-image: https://placid.app/u/8pxvaj4?title=What I learned in my 20s
+description: I turned 30 last week. In the weeks leading up to that event I was
+  reflecting on my 20s. Here I collected a summary of things i learned.
 ---
 I turned 30 last week. In the weeks leading up to that event I was reflecting on my 20s. I was taking stock of lessons and applying them for my future self. Not taking time to stop and reflect, correct the direction, could easily end up in ruin. As they say: “if you fail to plan, plan to fail”. This article is a self reflection with most memorable lessons I took away from my 20s. I hope you too find them useful. If you have something to add - please do so! Email me or DM me on Twitter. I’d really appreciate your constructive criticism, especially when it’s based on your own experience.
 
@@ -17,7 +19,11 @@ Listen to your gut, heart, mind. In that order. Especially if you have a powerfu
 
 ## Work with people. 1+1=3
 
-Frustrated by inefficiencies of teamwork
+Frustrated by inefficiencies of teamwork, I spent half of my 20s working as a solo founder. I had some successes and some failures doing that. There is a whole indie hacker movement, that makes such life and works style attractive and prestigious. Everyone WOWs at solo developers that are able to stack up 5 digit monthly revenues from their projects. 
+
+Even though it is indeed fascinating that you can do that, it is not an easy path. It gets lonely. Fast. Yes, it is possible to surround yourself with other solo makers and a community of founders to keep you going. But there is no replacement for a tight team and a cofounder. Daily interactions with someone you are on the same journey, someone who can be your sounding boarding and helps you push forward are priceless.
+
+So find a partner you enjoy working with. Make sure you are different in some ways. Otherwise it'll either get boring or you'll hate each other. Mimetic rivalry is real.
 
 ## Go out of your way to be around people you admire.
 
