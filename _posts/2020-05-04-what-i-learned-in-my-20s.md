@@ -51,7 +51,11 @@ Time and time again I find myself neglecting sleep. Whenever things go wrong in 
 
 ## Work out regularly
 
-Hire a personal trainer at least for a month or two. — I should have done this way earlier!
+Hire a personal trainer for at least for a month or two. I should have done this way earlier! In my 20s I went to a gym at least two times a week. I’d spend 40 minutes improvising - lifting some weights, jogging, etc. I was sweating. It felt like I was working real hard!
+
+But the truth is, I wasn’t better than a monkey bashing at a keyboard. Once I hired a personal trainer, I learned the correct form when exercising. The basics of lifts. Now I can start exercising on my own. I can finally see clear results. I should have done it much much earlier!
+
+Spending a few hundred dollars on a personal trainer early on, will give you years worth of value going forward. Doesn’t matter how much you earn. It’s worth it.
 
 ## Stay grounded
 
