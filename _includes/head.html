@@ -26,8 +26,11 @@
   {% seo %}
   <meta name='twitter:card' content='summary_large_image' />
 
-  {% if page.layout == post %} {% assign seo-description = page.content | strip_html | truncatewords: 30 %} {% else %}
-  {% assign seo-description = site.description %} {% endif %}
+  {% if page.layout == 'post' %}
+  {% assign seo-description = page.description | page.excerpt | strip_html | truncatewords: 30 %}
+  {% else %}
+  {% assign seo-description = site.description %}
+  {% endif %}
   <meta name="twitter:description" content="{{ seo-description }}" />
   {% include google-analytics.html %}
 </head>
