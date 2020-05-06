@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I learned in my 20s
-og-image: https://placid.app/u/8pxvaj4?title=What I learned in my 20s
+og-image: ""
 description: I turned 30 last week. In the weeks leading up to that event I was
   reflecting on my 20s. Here I collected a summary of things i learned.
 ---
