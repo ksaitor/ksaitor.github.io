@@ -11,13 +11,20 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   {% seo %}
+
   <meta name="twitter:site" content="@ksaitor" />
-  {% if page.og-image %} {% assign og-image = page.og-image %} {% else %} {% assign og-image = site.url | append:
-  '/assets/images/fb-og.jpg' %} {% endif %}
+  {% if page.og-image %}
+  {% assign og-image = page.og-image %}
+  {% elsif page.title %}
+  {% assign og-image = 'https://placid.app/u/8pxvaj4?title=' | append: page.title %}
+  {% else %}
+  {% assign og-image = site.url | append: '/assets/images/fb-og.jpg' %}
+  {% endif %}
   <meta name="twitter:image" content="{{ og-image | replace: ' ', '+'  }}" />
   <meta property="og:image" content="{{ og-image | replace: ' ', '+' }}" />
   <meta property="og:image:height" content="630" />
   <meta property="og:image:width" content="1200" />
+
   {% if page.layout == post %} {% assign seo-description = page.content | strip_html | truncatewords: 30 %} {% else %}
   {% assign seo-description = site.description %} {% endif %}
   <meta name="twitter:description" content="{{ seo-description }}" />

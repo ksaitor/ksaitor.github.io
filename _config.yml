@@ -92,7 +92,7 @@ defaults:
       layout: 'post'
       share_buttons: true
   - scope:
-      path: '/admin'
+      path: '/admin/'
     values:
       sitemap: false
 
