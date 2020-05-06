@@ -18,6 +18,8 @@ I just sold one of my side projects! Yay! 🍾 As most makers, I have a dozen st
 
 I [announced on my twitter](https://twitter.com/ksaitor/status/1247868963326799874) that I'm selling **[EmailToPdf](https://emailtopdf.it).** I [previously announced](https://twitter.com/ksaitor/status/1130747316053299200) that building it on twitter as well, got initial users and feedback. Several people DMed me, some retweeted and some commented.
 
+![emailtopdf.it](/images/opengraph-image.png)
+
 The founder of [MicroAcquire.com](https://microacquire.com/), Andrew also reached out and I’ve listed my project there. The platform has a slick UI. I’ve got a few requests. I replied to them all, however I got radio silice in return. Not sure if it is because the project wasn’t interesting, or whether [MicroAcquire](https://microacquire.com/) didn’t relay my messages well enough to potential buyers. To be honest, I feel it was the latter. Hope Andrew improves response rate from buyers.
 
 * Most people want to know what’s the revenue and acquire just based on that.
