@@ -15,7 +15,7 @@
   <meta name="twitter:site" content="@ksaitor" />
   {% if page.og-image %}
   {% assign og-image = page.og-image %}
-  {% elsif page.title %}
+  {% elseif page.title %}
   {% assign og-image = 'https://placid.app/u/8pxvaj4?title=' | append: page.title %}
   {% else %}
   {% assign og-image = site.url | append: '/assets/images/fb-og.jpg' %}
