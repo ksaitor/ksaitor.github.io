@@ -43,7 +43,9 @@ rrssb:
 
 # SEO
 title: 'Raman Shalupau'
-twitter: ksaitor
+twitter:
+  card: 'summary_large_image'
+  username: 'ksaitor'
 facebook:
   publisher: 'https://facebook.com/ramanksaitor'
 logo: '/assets/images/fb-og.jpg'
