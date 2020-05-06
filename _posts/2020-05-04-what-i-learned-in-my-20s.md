@@ -51,7 +51,11 @@ Time and time again I find myself neglecting sleep. Whenever things go wrong in 
 
 ## Work out regularly
 
-Hire a personal trainer at least for a month or two. — I should have done this way earlier!
+Hire a personal trainer for at least for a month or two. I should have done this way earlier! In my 20s I went to a gym at least two times a week. I’d spend 40 minutes improvising - lifting some weights, jogging, etc. I was sweating. It felt like I was working real hard!
+
+But the truth is, I wasn’t better than a monkey bashing at a keyboard. Once I hired a personal trainer, I learned the correct form when exercising. The basics of lifts. Now I can start exercising on my own. I can finally see clear results. I should have done it much much earlier!
+
+Spending a few hundred dollars on a personal trainer early on, will give you years worth of value going forward. Doesn’t matter how much you earn. It’s worth it.
 
 ## Stay grounded
 
@@ -61,13 +65,9 @@ It's tempting to chase the most unattainable goal, partner, investor, customer, 
 
 Look around you. Often the answer/solution to your biggest problem is right in front of you. It’s the most obvious one. However your ego has been disregarding it, in favour of an illusive shiny object high above. Be it gal/guy that you are trying to get noticed by, a VC that you are trying to get investment from.
 
-## When it comes to financial interests, no one really gives a f*ck about you.
+## Don’t follow your passion. Follow a purpose.
 
-Even your closest friends. They grind each day for their share of the pie. I keep forgetting this one. And often reminded with a slap in my face. It’s very sobering when this happens.
-
-## Don’t follow passion, follow purpose.
-
-Passion is Ego. Purpose is something bigger than you.
+Passion is Ego. Purpose is something bigger than you. Find a purpose that excites you, that you can work on every day. Something you loose sense of time doing. Try to stay in that flow as much as possible. But dont forget to take weekly and monthly breaks to take stock of your progress. Get feedback from your mentors on how you are doing.
 
 ## The reward for good habits is sustainable growth, the reward for bad habits is instant gratification
 
