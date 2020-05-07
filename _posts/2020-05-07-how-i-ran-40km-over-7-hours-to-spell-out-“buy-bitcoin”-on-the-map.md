@@ -11,9 +11,15 @@ This started as a joke on April 10, a few days after Singapore introduced a lock
 
 P.S. By the time I finished running BITCOIN, it’s price went up 6% in the last hour. Perhaps if we collectively run “Bitcoin” every day, it’ll go to the moon faster?
 
-🏃‍♂️ Follow me on [](https://www.linkedin.com/company/strava-inc./)Strava <https://lnkd.in/gSzpM85>
-
+🏃‍♂️ Follow me on [](https://www.linkedin.com/company/strava-inc./)Strava <https://lnkd.in/gSzpM85>\
 💰 Send your generous donations here: 3BTHasH7anJZEjGn2c6fhrJuBW7egCiLwe
+
+
+
+Several people been asking me if I actually ran this and how did i get such straight lines
+
+* Yes, I actually ran this. 40km. Maybe more.
+* To get straight lines, you've got to turn on tracking only at the edges. So that Strava doesn't track every step on the path. Otherwise you'll get a messy picture like this:
 
 This also appeared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6661492192428863488/) and [Twitter](https://twitter.com/ksaitor/status/1255754552361414656)
 
