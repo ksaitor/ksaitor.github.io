@@ -13,7 +13,7 @@
 
   {% if page.og-image and page.og-image != empty %}
   {% assign og-image = page.og-image %}
-  {% elsif page.title %}
+  {% elseif page.title %}
   {% assign og-image = 'https://placid.app/u/8pxvaj4?title=' | append: page.title %}
   {% else %}
   {% assign og-image = site.url | append: '/assets/images/fb-og.jpg' %}
