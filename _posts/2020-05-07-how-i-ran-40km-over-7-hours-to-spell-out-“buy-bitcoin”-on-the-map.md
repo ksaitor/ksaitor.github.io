@@ -7,14 +7,23 @@ og-image: https://i.imgur.com/J8SoRzd.jpg
 
 Most people hate running because it feels meaningless and boring… Well, now that you’ve seen this, you don’t have an excuse! Pick something you’d like to say - something funny, or something serious - something meaningful to you; draw it out on a map and run that thing! I promise you — running won't ever feel the same.
 
-This started as a joke on April 10, a few days after Singapore introduced a lockdown. I was going crazy in isolation and to cure my boredom an idea to run the word “HELP” somehow popped in to my mind. Once I was done running “HELP” - I thought, why stop there?! To celebrate my upcoming 30th birthday and the 2nd Bitcoin halving I decided to expand this to “HELP ME BUY 30 BITCOIN” 😂 These were my most meaningful runs ever - silly, right? Now that I’m done, I can finally rest and think of my next project.
+Started this as a joke on April 10, a few days after Singapore went into a lockdown. I was going crazy in isolation and to cure my boredom an idea to run the word “HELP” somehow popped in to my mind. Once I completed “HELP”, I thought, why stop there?! To celebrate my upcoming 30th birthday and the 2nd Bitcoin halving I expanded this to “HELP ME BUY 30 BITCOIN” 😂 Running never been so meaningful ever. Silly, right?
 
-P.S. By the time I finished running BITCOIN, it’s price went up 6% in the last hour. Perhaps if we collectively run “Bitcoin” every day, it’ll go to the moon faster?
+Alright, now let's get serious: 
+
+Wouldn't it be nice to own 30 Bitcoin?\
+I bet it would! I did extensive research and found two ways to get those 30 Bitcoin:
+
+The first one is to buy them. But if you can't afford to buy this much (I can't) the other way is to EARN them. The best way to earn them is to subscribe to [Crypto Jobs List](https://www.linkedin.com/company/cryptojobslist/) → apply to jobs → start earning!
+
+21 Million Bitcoin. 8 Billion of us.\
+Start earning early. Subscribe above.
+
+
+---
 
 🏃‍♂️ Follow me on [](https://www.linkedin.com/company/strava-inc./)Strava <https://lnkd.in/gSzpM85>\
 💰 Send your generous donations here: 3BTHasH7anJZEjGn2c6fhrJuBW7egCiLwe
-
-
 
 Several people been asking me if I actually ran this and how did i get such straight lines
 
