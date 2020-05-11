@@ -2,7 +2,7 @@
 layout: post
 title: I just sold emailtopdf.it - Here's what I learned!
 og-image: https://ksaitor.com/images/emailtopdf-sold.png
-description: I just sold one of my side-projects. Here is what I learned →
+description: I just sold my side-project. Here is what I learned →
 tags:
   - startups
   - howto
