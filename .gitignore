@@ -5,3 +5,4 @@ _drafts
 .jsbeautifyrc
 *.sublime-workspace
 .jekyll-metadata
+.jekyll-cache
