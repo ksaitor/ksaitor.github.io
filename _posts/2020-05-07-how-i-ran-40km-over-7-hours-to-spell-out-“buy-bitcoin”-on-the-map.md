@@ -11,19 +11,18 @@ Started this as a joke on April 10, a few days after Singapore went into a lockd
 
 Alright, now let's get serious: 
 
-Wouldn't it be nice to own 30 Bitcoin?\
-I bet it would! I did extensive research and found two ways to get those 30 Bitcoin:
+Wouldn't it be nice to own 30 Bitcoin? I bet it would! I did extensive research and found two ways to get those 30 Bitcoin:
 
 The first one is to buy them. But if you can't afford to buy this much (I can't) the other way is to EARN them. The best way to earn them is to subscribe to [Crypto Jobs List](https://www.linkedin.com/company/cryptojobslist/) → apply to jobs → start earning!
 
-21 Million Bitcoin. 8 Billion of us.\
-Start earning early. Subscribe above.
+21 Million Bitcoin. 8 Billion of us. Start earning early. Subscribe above.
 
 
 ---
 
-🏃‍♂️ Follow me on [](https://www.linkedin.com/company/strava-inc./)Strava <https://lnkd.in/gSzpM85>\
-💰 Send your generous donations here: 3BTHasH7anJZEjGn2c6fhrJuBW7egCiLwe
+🏃‍♂️ Follow me on [](https://www.linkedin.com/company/strava-inc./)Strava <https://lnkd.in/gSzpM85>
+
+💰 Send your donations here: 3BTHasH7anJZEjGn2c6fhrJuBW7egCiLwe
 
 Several people been asking me if I actually ran this and how did i get such straight lines
 
