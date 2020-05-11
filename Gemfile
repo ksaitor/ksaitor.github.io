@@ -7,3 +7,5 @@ gem 'jekyll-paginate'
 gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll-watch'
 gem 'jekyll-sitemap'
+
+gem "jekyll-minifier", "~> 0.1.10"

@@ -104,5 +104,6 @@ plugins:
   - jekyll-paginate
   - jekyll-admin
   - jekyll-sitemap
+  - jekyll-minifier
 
 exclude: [vendor]
