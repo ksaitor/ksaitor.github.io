@@ -19,7 +19,7 @@ I just sold one of my side projects! Yay! 🍾 As most makers, I have started a 
 
 ## Finding a buyer
 
-When I started building email to PDF, I [posted about it on twitter](https://twitter.com/ksaitor/status/1130747316053299200). Naturally, when it was time to sell, I thought it'd be apt to [post it on twitter](https://twitter.com/ksaitor/status/1247868963326799874) as well (circle of life!!) The buyer was a friend of a friend who followed me on Twitter.
+When I started building [Email To PDF](https://emailtopdf.it), I [posted about it on twitter](https://twitter.com/ksaitor/status/1130747316053299200). Naturally, when it was time to sell, I thought it'd be apt to [post it on twitter](https://twitter.com/ksaitor/status/1247868963326799874) as well (circle of life!!) The buyer was a friend of a friend who followed me on Twitter.
 
 ![emailtopdf.it](/images/emailtopdf.png)
 
