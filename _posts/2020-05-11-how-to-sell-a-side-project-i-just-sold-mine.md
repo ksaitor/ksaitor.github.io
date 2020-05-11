@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to sell a side project [I just sold mine!]
-og-image: https://ksaitor.com/images/opengraph-image.png
+og-image: https://ksaitor.com/images/emailtopdf-sold.png
 description: I just sold one of my side-projects. Here is what I learned →
 tags:
   - startups
@@ -31,7 +31,7 @@ I [announced on my twitter](https://twitter.com/ksaitor/status/12478689633267998
 [previously announced](https://twitter.com/ksaitor/status/1130747316053299200) that building it on twitter as well, got
 initial users and feedback. Several people DMed me, some retweeted and some commented.
 
-![emailtopdf.it](/images/opengraph-image.png)
+![emailtopdf.it](/images/emailtopdf.png)
 
 The founder of [MicroAcquire.com](https://microacquire.com/), Andrew also reached out and I’ve listed my project there.
 The platform has a slick UI. I’ve got a few requests. I replied to them all, however I got radio silice in return. Not
