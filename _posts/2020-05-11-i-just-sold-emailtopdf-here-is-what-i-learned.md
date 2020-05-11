@@ -23,7 +23,7 @@ When I started building [Email To PDF](https://emailtopdf.it), I [posted about i
 
 ![emailtopdf.it](/images/emailtopdf.png)
 
-The founder of[ MicroAcquire](https://microacquire.com/), Andrew also reached out and I listed listed my project there. The platform has a slick UI. I got a few requests. I replied to them all, however I got radio silice in return. Not sure if it is because the project wasn’t interesting, or whether [](https://microacquire.com/)[MicroAcquire](https://microacquire.com/) didn’t relay my messages well enough to potential buyers. To be honest, I feel it was the latter. Hope Andrew improves response rate from buyers.
+The founder of[ MicroAcquire](https://microacquire.com/), Andrew also reached out and I listed listed my project there. The platform has a slick UI. I got several requests. I replied to them all, however I got radio silice in return. Not sure if it is because the project wasn’t interesting, or whether [](https://microacquire.com/)[MicroAcquire](https://microacquire.com/) didn’t relay my messages well enough to potential buyers. To be honest, I feel it was the latter. Hope Andrew improves response rate from buyers. They are doing fantastic work overall — [check them out](https://microacquire.com/)!
 
 * Most people want to know what’s the revenue and acquire just based on that.
 * Few want to actually look into the potential and acquire based on the potential. Which is a lost opportunity to buy cheap and with potentially minimal additional efforts turn it into something profitable, working or even learn more about working with other people and how they build projects. Value of learning and new relationships can be massive.
