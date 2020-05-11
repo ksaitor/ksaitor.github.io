@@ -107,3 +107,7 @@ plugins:
   - jekyll-minifier
 
 exclude: [vendor]
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
