@@ -1,9 +1,11 @@
 ---
 layout: post
 title: How to sell a side project [I just sold mine!]
-og-image: /images/opengraph-image.png
+og-image: https://ksaitor.com/images/opengraph-image.png
+description: I just sold one of my side-projects. Here is what I learned →
 tags:
-  - ''
+  - startups
+  - howto
 ---
 
 I just sold one of my side-projects and I’d like to share with you what I learned.
