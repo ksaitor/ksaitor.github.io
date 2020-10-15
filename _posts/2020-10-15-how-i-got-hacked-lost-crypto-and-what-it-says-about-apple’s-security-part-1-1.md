@@ -74,9 +74,9 @@ I had some old hot wallets stored in my iCloud. Some as a file. Some as a passwo
 
 Tuesday - I’m trying to investigate what happened. Just in case someone physically accessed my laptops, I decided to look into logs.
 
-```
-pmset -g log | grep -e " Sleep " -e " Wake "
-```
+
+`pmset -g log \| grep -e " Sleep " -e " Wake "`
+
 
 gave me a nice output of when both computers were on and off.
 
