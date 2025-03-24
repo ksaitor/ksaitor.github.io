@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name: 'Raman Shalupau'
+name: 'ksaitor'
 description: 'Essays on tech, music, Singapore and other curious observations in life at ksaitor.com'
 author:
   # facebook: ramanksaitor
@@ -17,8 +17,8 @@ author:
   youtube: https://www.youtube.com/channel/UCPr3svxWJzJuog9R_-tKOUw
 
 copyright:
-  year: 2020
-  name: Raman Shalupau
+  year: 2025
+  name: ksaitor
 
 # Google-analytics
 google-analytics:
@@ -42,13 +42,10 @@ rrssb:
   tumblr: false
 
 # SEO
-title: 'Raman Shalupau'
+title: 'ksaitor'
 twitter:
   card: 'summary_large_image'
   username: 'ksaitor'
-facebook:
-  publisher: 'https://facebook.com/ramanksaitor'
-logo: '/assets/images/fb-og.jpg'
 
 # URL
 url: 'https://ksaitor.com' # the base hostname & protocol for your site
