@@ -10,3 +10,5 @@ gem 'jekyll-sitemap'
 gem 'sass-embedded', '~> 1.86.0'
 
 gem "jekyll-minifier", "~> 0.1.10"
+
+gem "sass", "~> 3.7"
