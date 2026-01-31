@@ -5,6 +5,7 @@ date: 2017-01-31
 tags: ['travel', 'sf']
 comments: true
 og-image: "https://ksaitor.com/images/SanFrancisco_0.jpg"
+description: "First trip to San Francisco and Silicon Valley after 5 years away from the US — excitement, worries and looking for introductions."
 ---
 
 This trip will be special for me. A significant part of childhood and teen years I’ve spent in the US (Maryland, then NYC and Cape Cod). Every summer, since the age of 14 I’d go. That’s where my accent is from (many people wonder) and part of my culture.

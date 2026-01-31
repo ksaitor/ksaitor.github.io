@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pretend to go to the office
+description: "A satirical business idea inspired by Taiwan's 'pretend to go abroad' — pay $100 for a full day of fake office misery."
 ---
 I’m starting a new business.
 

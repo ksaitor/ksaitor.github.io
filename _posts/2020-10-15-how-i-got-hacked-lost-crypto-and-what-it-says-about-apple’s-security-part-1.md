@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I got hacked, lost crypto and what it says about Apple’s security. Part 1
+description: "How I got hacked, lost thousands in crypto and discovered alarming gaps in Apple's account security and 2FA."
 ---
 This week I was hacked. The attacker gained access to several of my accounts (Apple Cloud, Yahoo, Gmail, Telegram), found private keys, mnemonic seeds and drained several thousand dollars worth of crypto.
 

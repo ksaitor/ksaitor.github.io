@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parameterized Jenkins build for rollback purposes."
-description: ""
+description: "How to set up parameterized Jenkins builds to rollback deployments to a specific git tag when things go wrong."
 date: 2014-04-22
 tags: ['howto']
 comments: true

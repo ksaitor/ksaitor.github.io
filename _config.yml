@@ -4,14 +4,12 @@
 
 # Basic
 name: 'ksaitor'
-description: 'Essays on tech, music, Singapore and other curious observations in life at ksaitor.com'
+description: 'Essays on tech, startups, music, Singapore and other curious observations in life'
 author:
-  # facebook: ramanksaitor
+  name: Raman Shalupau
   twitter: ksaitor
   github: ksaitor
   linkedin: ramanshalupau
-  # medium:           ramanshalupau
-  # email:            raman.shalupau@gmail.com
   soundcloud: ksaitor
   instagram: ksaitor
   youtube: https://www.youtube.com/channel/UCPr3svxWJzJuog9R_-tKOUw
@@ -20,9 +18,9 @@ copyright:
   year: 2025
   name: ksaitor
 
-# Google-analytics
+# Google Analytics 4 — replace G-XXXXXXXXXX with your GA4 measurement ID
 google-analytics:
-  id: UA-30171436-1
+  id: G-XXXXXXXXXX
 
 # Disqus
 disqus:
@@ -42,7 +40,7 @@ rrssb:
   tumblr: false
 
 # SEO
-title: 'ksaitor'
+title: 'ksaitor — essays on tech, startups & life'
 twitter:
   card: 'summary_large_image'
   username: 'ksaitor'

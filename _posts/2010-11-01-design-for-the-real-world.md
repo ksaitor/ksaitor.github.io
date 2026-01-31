@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design for the real world"
-description: ""
+description: "A recommendation for Victor Papanek's book on human ecology, social change and purposeful design."
 date: 2010-11-01
 tags: ['books']
 comments: true

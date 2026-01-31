@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'fatal: CRLF would be replaced by LF'
-description: ''
+description: "Quick fix for the git error 'fatal: CRLF would be replaced by LF' using core.autocrlf and a one-liner perl conversion."
 date: 2017-11-14
 tags: ['git', 'engineering', 'howto']
 og-image: 'https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif'

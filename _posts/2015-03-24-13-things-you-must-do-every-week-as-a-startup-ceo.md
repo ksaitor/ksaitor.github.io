@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "13 Things You Must Do Every Week As A Startup CEO"
-description: ""
+description: "Jason Goldberg's timeless advice for startup CEOs — from staying focused on your one thing to exercising, managing cash and loving your team."
 date: 2015-03-24
 tags: []
 comments: true
