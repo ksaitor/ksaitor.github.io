@@ -81,5 +81,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-exclude: [vendor, Gemfile, Gemfile.lock, README.md, vercel.json]
+exclude: [vendor, Gemfile, Gemfile.lock, README.md, vercel.json, AGENTS.md]
 
