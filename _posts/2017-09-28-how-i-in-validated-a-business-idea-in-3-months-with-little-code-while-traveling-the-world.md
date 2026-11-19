@@ -3,7 +3,7 @@ layout: post
 title: How I in-validated a business idea in 3 months with little code, while traveling the world ✈️
 date: 2017-09-28
 tags: ['startups', 'podcasts', 'failure', 'sf', 'singapore', 'bali']
-og-image: 'https://ksaitor.com/images/readbyhumans-postmortem/IMG_8422.JPG'
+image: 'https://ksaitor.com/images/readbyhumans-postmortem/IMG_8422.JPG'
 ---
 
 In this article I’ll share with you how I validated a fresh idea, by focusing on metrics instead of lines of code; did

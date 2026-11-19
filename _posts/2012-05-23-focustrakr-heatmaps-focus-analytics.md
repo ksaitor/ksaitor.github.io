@@ -5,7 +5,7 @@ description: "Back in 2012 I wrote FocusTrackr — and analytics "
 date: 2012-05-23
 tags: ['javascript', 'js', 'engineering']
 comments: true
-og-image: "https://ksaitor.com/images/focustrakr/cover.png"
+image: "https://ksaitor.com/images/focustrakr/cover.png"
 ---
 
 🚧 This article is under construction. Just putting up screenshots for now 👇

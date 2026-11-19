@@ -4,7 +4,7 @@ title: "Going to San Francisco. First timer!"
 date: 2017-01-31
 tags: ['travel', 'sf']
 comments: true
-og-image: "https://ksaitor.com/images/SanFrancisco_0.jpg"
+image: "https://ksaitor.com/images/SanFrancisco_0.jpg"
 description: "First trip to San Francisco and Silicon Valley after 5 years away from the US — excitement, worries and looking for introductions."
 ---
 

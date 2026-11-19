@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I just sold emailtopdf.it - Here's what I learned!
-og-image: https://ksaitor.com/images/emailtopdf-sold.png
+image: https://ksaitor.com/images/emailtopdf-sold.png
 description: Here are the things I WISH I knew before starting the selling process. →
 tags:
   - startups

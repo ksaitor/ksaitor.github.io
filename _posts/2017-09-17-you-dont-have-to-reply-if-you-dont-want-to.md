@@ -2,7 +2,7 @@
 layout: post
 title: You dont have to reply, if you ...
 tags: ['howto', 'growth']
-og-image: "https://ksaitor.com/images/magic-phrase.jpg"
+image: "https://ksaitor.com/images/magic-phrase.jpg"
 description: "A simple phrase that gets unsubscribers to give you constructive feedback — and sometimes even stay."
 ---
 

@@ -1,128 +1,48 @@
-# Kiko Plus Theme
+# ksaitor.com
 
-You can see live demo [here](https://aweekj.github.io/Kiko-plus). This theme is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.
+A Jekyll site containing Raman Shalupau's essays. Content lives in this repository; there is no web admin.
 
-## Features
+## Add or edit an essay
 
-- Disqus comment system
-- Google analytics
-- Pagination support
-- Custom tags
-- SEO support
+1. Add a Markdown file at `_posts/YYYY-MM-DD-short-slug.md`. The date in the filename is the publication date. Use lowercase words separated by hyphens for new slugs.
+2. Start with front matter like this:
 
+   ```yaml
+   ---
+   layout: post
+   title: "A descriptive title"
+   description: "A concise, accurate summary for search results and sharing."
+   image: /images/example.jpg # optional; defaults to the site's social image
+   tags: [example] # optional
+   ---
+   ```
 
-## Installation
+3. Write the article in Markdown. Put images in `images/`, use descriptive alt text, and link to reliable sources where appropriate. The first paragraph is used as the homepage excerpt; keep it useful on its own.
+4. Preserve existing filenames, post dates, and permalinks when updating articles. The URL pattern is `/:year-:month-:day/:title/`; changing a filename can break incoming links and search traffic. Do not invent facts, quotes, dates, or claims for SEO.
+5. Review the generated post, homepage, archive, feed, sitemap, canonical URL and social metadata before publishing when verification is authorized. A future-dated post may not appear in a normal build.
 
-#### Method 1: new master's repository (The Best)
+Use `image` for a post's social image; it may be a site-relative path or an absolute HTTPS URL. Existing image URLs have been preserved. Images and descriptions affect presentation but do not guarantee search rankings.
 
-1. First [fork](https://github.com/AWEEKJ/Kiko-plus/fork) it.
-2. Change your forked repository name _Kiko-plus_ to __USERNAME.github.io__ where __USERNAME__ is your github username.
-3. Access your new blog via [https://username.github.io](https://username.github.io).
-4. [See configuration](#configuration).
+## Local preview
 
-#### Method 2: gh-pages in existing repository
+Install Ruby and Bundler, then run:
 
-1. Create a new branch called _gh-pages_ in the repository where you want to add a template [managing branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
-2. From command line run `git clone https://github.com/AWEEKJ/Kiko-plus.git` - this will clone _Kiko-plus_ template to your computer.
-3. Create new branch `git checkout -b gh-pages` where _gh-pages_ will be your branch name.
-4. Add remote, which is your repo from the first step, to your new branch `git remote add gh-pages https://github.com/<yourName>/<yourMaster>/gh-pages`. _yourName_ is your account name and _yourMaster_ is your repository.
-5. Push new branch to remote `git push gh-pages`.
-6. Update `_config.yml` file by changing `baseurl: "<branchName>"` _branchName_ is your branch name where _gh-pages_ resides. See [configuration](#configuration).
-
-## Configuration
-
-All configuration is done via `_config.yml` file which you will find in your main repo folder. Change this `<something>` to yours.
-
-### Basic
-
-- Config your blog name.
-
-```yml
-name: <blog-name>
+```sh
+bundle install
+bundle exec jekyll serve
 ```
 
-- These configuration in `author:` is for links to icons in footer. If you want to add more link icons, modify `_includes/footer.html` file.
+Open the local URL printed by Jekyll. `Gemfile.lock` pins the local dependency set; update it deliberately when changing dependencies. This local setup uses Jekyll 4, so it is not an exact reproduction of the hosted build.
 
-```yml
-author:
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
-```
+## Publishing
 
-- Change copyright year and name in footer.
+GitHub Pages is configured to build the root of the `master` branch at `ksaitor.com`. An authorized push to that branch can publish changes; do not push or change deployment settings without explicit authorization. Check the GitHub Pages deployment and live pages after publishing.
 
-```yml
-copyright:
-  year:             2017
-  name:             Kiko
-```
+The current GitHub Pages branch builder uses its own supported Jekyll and plugin versions, not this repository's lockfile. For fully reproducible production builds, migrate to a GitHub Actions Pages workflow and change the repository's Pages source to GitHub Actions; that migration requires a deployment configuration change and live verification. Keep `CNAME` and existing permalinks during any migration.
 
-### Google analytics
+## Integrations
 
-- Change this to your Google Analytic ID.
-
-```yml
-google-analytics:
-  id:               "your-id"
-```
-
-### Disqus
-
-- Change this to your Disqus short name.
-
-```yml
-disqus:
-  id:               "your-id"
-```
-
-### URL
-
-- Config your domain.
-
-```yml
-url: "https://<your-name>.github.io"
-```
-
-- **NOTE** When if running locally, change url to 
-
-```yml
-url: "https://localhost:4000"
-```
-
-- Change this to your branch name where _gh-pages_ resides. 
-- **NOTE** apply only if you used __Method 2__ for installation.
-
-```yml
-baseurl: "/<branch-name>"
-```
-
-## Run in Local
-
-1. Download or clone your remote repository.
-2. Go inside folder. First, run `rake geminstall`. 
-3. Second, run `jekyll serve` or `rake preview`. This will build a website which you can access [https://localhost:4000](https://localhost:4000). Make sure that `url` in `_config.yml` file is `url: "https://localhost:4000"`. You need to have [Jekyll](https://jekyllrb.com/docs/installation/) installed to do this.
-
-## Rakefile Usage
-
-```bash
-# Create new post
-$ rake post title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"] 
-
-# Create new draft post
-$ rake draft title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"]
-
-# Install Jekyll Plugins. Do before running in local.
-$ rake geminstall
-
-# Run in Local
-$ rake preview
-```
-
-## License
-
-This theme is released under MIT License.
+- `jekyll-seo-tag` generates canonical, Open Graph, Twitter and structured metadata; set post `description` and `image` in front matter.
+- Sitemap and RSS are generated at `/sitemap.xml` and `/feed.xml`.
+- Disqus comments and the Substack subscription embed are retained. Existing embedded tweets use the Twitter widget.
+- Google Analytics is disabled until a real GA4 measurement ID is set under `google-analytics.id` in `_config.yml`.

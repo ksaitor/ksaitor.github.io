@@ -1,3 +1,2 @@
 User-agent: *
 Sitemap: https://ksaitor.com/sitemap.xml
-Disallow: /admin

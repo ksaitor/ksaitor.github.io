@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expect that things won't work out
-og-image: "https://i.imgur.com/knEmApG.png"
+image: "https://i.imgur.com/knEmApG.png"
 ---
 
 

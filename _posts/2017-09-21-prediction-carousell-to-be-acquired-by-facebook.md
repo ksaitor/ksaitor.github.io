@@ -3,7 +3,7 @@ layout: post
 title: 'Prediction: Carousell to be acquired by Facebook.'
 date: 2017-09-21
 tags: ['startups', 'facebook', 'carousell', 'singapore', 'predictions']
-og-image: 'https://ksaitor.com/images/facebook-carousell-cover.jpg'
+image: 'https://ksaitor.com/images/facebook-carousell-cover.jpg'
 ---
 
 A few years ago I jokingly predicted that [Carousell](https://carousell.com){:target="\_blank"} will be more valuable

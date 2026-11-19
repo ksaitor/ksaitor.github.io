@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I ran 40km over 7 hours to spell out “BUY BITCOIN” on the map
-og-image: https://i.imgur.com/J8SoRzd.jpg
+image: https://i.imgur.com/J8SoRzd.jpg
 ---
 40 km and 7 hours of running and I finally did it!
 
