@@ -7,12 +7,12 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
 
-  <article>
+  <article class="post-content">
     {{ content }}
   </article>
 
-  <hr />
-  <div class="post-tag">
+  {% if page.tags.size > 0 %}
+  <nav class="post-tag" aria-label="Post tags">
     <ul>
       {% for tag in page.tags %}
       <li>
@@ -20,13 +20,13 @@ layout: default
           <span>{{ tag }}</span>
         </a>
       </li>
-      {% unless forloop.last %}{% endunless %}
       {% endfor %}
     </ul>
-  </div>
+  </nav>
+  {% endif %}
 
-  <iframe src="https://ksaitor.substack.com/embed" width="100%" height="320"
-    style="border: 1px solid #eee; background: white;" frameborder="0" scrolling="no"></iframe>
+  <iframe class="post-subscribe" title="Subscribe to ksaitor" src="https://ksaitor.substack.com/embed" width="100%" height="320"
+    frameborder="0" scrolling="no"></iframe>
 
   <!-- Disqus -->
   {% if page.comments != false and site.disqus.id %}

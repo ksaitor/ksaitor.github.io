@@ -68,7 +68,129 @@ a:hover {
   color: #004499;
 }
 
+/* Homepage post list */
+.list-post {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid #d9dee3;
+}
+
+.list-post-date {
+  color: #66717c;
+  font-size: 0.875rem;
+}
+
+.list-post-title {
+  margin: 0.35rem 0 0.75rem;
+  font-size: clamp(1.5rem, 3vw, 1.875rem);
+  line-height: 1.2;
+}
+
+.list-post-title a {
+  color: #1a1a1a;
+}
+
+.list-post-title a:hover {
+  color: #0066cc;
+}
+
+.list-post-desc {
+  color: #4b5560;
+}
+
+.list-post-desc p {
+  margin-bottom: 0.75rem;
+}
+
+.continue-reading-btn {
+  display: inline-block;
+  font-size: 0.925rem;
+  font-weight: 500;
+}
+
+.list-pagination {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 2rem;
+}
+
 /* Blog post styles */
+.meta-header .text {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.post-date {
+  color: #66717c;
+  font-size: 0.875rem;
+}
+
+.post-title {
+  margin: 0 0 2rem;
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+}
+
+.post-content {
+  font-size: 1.125rem;
+  line-height: 1.75;
+  overflow-wrap: break-word;
+}
+
+.post-content h2,
+.post-content h3 {
+  margin-top: 2.5rem;
+  line-height: 1.25;
+}
+
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.post-content blockquote {
+  border-left: 3px solid #c9d1d9;
+  color: #4b5560;
+  margin: 1.5rem 0;
+  padding-left: 1.25rem;
+}
+
+.post-tag {
+  border-top: 1px solid #d9dee3;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+}
+
+.post-tag ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+}
+
+.post-tag a {
+  display: block;
+  background: #e4e9ed;
+  border-radius: 999px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.875rem;
+}
+
+.post-subscribe {
+  display: block;
+  margin-top: 2.5rem;
+  border: 1px solid #d9dee3;
+  background: white;
+}
+
+.post-disqus {
+  margin-top: 2.5rem;
+}
+
 .page {
   background: white;
   padding: 2rem;
@@ -99,12 +221,32 @@ img {
 }
 
 /* Footer */
-footer {
+.footer {
   margin-top: 3rem;
   padding-top: 2rem;
-  border-top: 1px solid #dee2e6;
   color: #6c757d;
   font-size: 0.9rem;
+}
+
+.footer-link {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.footer-link a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  color: #4b5560;
+  font-size: 1.5rem;
+}
+
+.footer-link a:hover {
+  color: #0066cc;
 }
 
 /* Responsive adjustments */

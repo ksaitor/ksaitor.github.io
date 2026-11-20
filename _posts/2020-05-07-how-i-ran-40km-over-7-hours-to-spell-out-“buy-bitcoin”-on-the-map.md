@@ -29,7 +29,7 @@ Several people been asking me if I actually ran this and how did i get such stra
 * Yes, I actually ran this. 40km. Maybe more.
 * To get straight lines, you've got to turn on tracking only at the edges. So that Strava doesn't track every step on the path. Otherwise you'll get a messy picture like this:
 
-This also appeared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6661492192428863488/) and [Twitter](https://twitter.com/ksaitor/status/1255754552361414656)
+This also appeared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6661492192428863488/) and [Twitter](https://x.com/ksaitor/status/1255754552361414656)
 
 ![HELP](/images/1.jpg)
 

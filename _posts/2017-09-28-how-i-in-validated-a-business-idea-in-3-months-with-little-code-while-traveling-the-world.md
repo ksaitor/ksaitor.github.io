@@ -123,7 +123,7 @@ I got accepted into [YC’s Startup School](https://www.startupschool.org/){:tar
 applied with my previous company, that I just “closed” after 2 years of hustle (follow me, I’ll blog about it some time
 this year).
 
-Second week of Startup School I told my mentor, [Brad Flora](https://twitter.com/bradflora){:target="_blank"}, that I’m
+Second week of Startup School I told my mentor, [Brad Flora](https://x.com/bradflora){:target="_blank"}, that I’m
 changing the direction. His feedback was: “yes! it’s a great idea and a growing market! In fact, just last week I
 invested in _[company in a similar space]_…” I was like: \_WOW_! The reaction was 10x compared to all reactions that I
 ever got to my other projects. Everyone in the batch loved the idea too. I was ecstatic! 😃
@@ -179,7 +179,7 @@ share this exact pain with you. It was time for yet another change.
 
 After spending two weeks in Singapore, I went to Bali for a month. I wanted to focus on ReadByHumans and ship something
 by the end of Startup School. There, I caught up with my friend
-[Andrey Azimov](https://twitter.com/AndreyAzimov){:target="\_blank"}, who recently exploded with his
+[Andrey Azimov](https://x.com/AndreyAzimov){:target="\_blank"}, who recently exploded with his
 [When To Surf](https://medium.com/@AndreyAzimov/i-learned-to-code-and-build-a-web-app-in-2-months-da8f2932c139){:target="\_blank"}.
 We thought it’d be cool to work side by side and keep each other in check. He also suggested to get my sh\*t together
 and to ship, measure, rinse, repeat. 👊
@@ -229,7 +229,7 @@ Adora Cheung (Co-founder & CEO of [Homejoy](https://en.wikipedia.org/wiki/Homejo
 ReadByHumans all of a sudden:
 
 <center>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Readbyhumans - articles to human read audio. I&#39;ve heard so many people who&#39;ve wanted this to exist, it&#39;s nuts. <a href="https://t.co/q96xtCaEqJ">https://t.co/q96xtCaEqJ</a></p>&mdash; Adora Cheung (@nolimits) <a href="https://twitter.com/nolimits/status/875873488434716672?ref_src=twsrc%5Etfw">June 17, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Readbyhumans - articles to human read audio. I&#39;ve heard so many people who&#39;ve wanted this to exist, it&#39;s nuts. <a href="https://t.co/q96xtCaEqJ">https://t.co/q96xtCaEqJ</a></p>&mdash; Adora Cheung (@nolimits) <a href="https://x.com/nolimits/status/875873488434716672?ref_src=twsrc%5Etfw">June 17, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
@@ -322,7 +322,7 @@ campaigns is also healthy.  Again, why is this important to know? — Becau
 business, while in fact you are killing it.
 
 Seems like ReadByHumans had good, healthy numbers. However getting those 15k hits (ideally for free) was not immediately
-obvious. Ideas are welcomed in comments on Twitter [@ksaitor](https://twitter.com/ksaitor){:target="\_blank"} please 🙏
+obvious. Ideas are welcomed in comments on Twitter [@ksaitor](https://x.com/ksaitor){:target="\_blank"} please 🙏
 
 #### Customer Development
 
@@ -382,7 +382,7 @@ played with to see what happens to the **Profit** cell.
 ### Thank you ❤️
 
 Special thanks to all who helped me with ReadByHumans along the way! Close friends, Startup School batch members, people
-who reached out and offered feedback. Thanks [Andrey](https://twitter.com/AndreyAzimov){:target="\_blank"} for kicking
+who reached out and offered feedback. Thanks [Andrey](https://x.com/AndreyAzimov){:target="\_blank"} for kicking
 my ass. Thanks, [Adelina](https://medium.com/@adelinapeltea) and
 [Ritesh](https://medium.com/@ringular){:target="\_blank"} for reviewing my writing. I omitted too many worth names here,
 as the article was already too long. Thank you if you one of the subscribers of ReadByHumans and chatted with me over
@@ -391,7 +391,7 @@ email and skype!
 ### Stay in Touch! 
 
 Hope this was useful! If you enjoyed this read, please clap below and share with friends. You can also reach me on
-twitter [@ksaitor](https://twitter.com/ksaitor){:target="\_blank"}. If you’d like to save this article, I’ve prepared a
+twitter [@ksaitor](https://x.com/ksaitor){:target="\_blank"}. If you’d like to save this article, I’ve prepared a
 downloadable
 [PDF for free here](/images/readbyhumans-postmortem/How%2520I%2520in-validated%2520a%2520business%2520idea%2520in%25203%2520months%2520with%2520little%2520code%2C%2520while%2520traveling%2520the%2520world%2520-%2520by%2520Raman%2520Shalupau%2520%40ksaitor.pdf){:target="\_blank"}.
 You can engage me on freelance basis, if you need some js, react, node, ui/ux or growth help. Ready to help! 👋

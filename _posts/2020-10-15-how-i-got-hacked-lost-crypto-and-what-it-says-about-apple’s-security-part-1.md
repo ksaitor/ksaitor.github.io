@@ -98,11 +98,11 @@ Apple Genius managed to find a bit more Senior Genius and handed over the case t
 
 ### Part 2
 
-In Part 2 I’ll write about incident response, forensics, chain analysis, and hopefully an identification of the attacker. I’ve reached out to a few friends from cyber sec and blockchain space to help me out and piece together the puzzle. If you’d like to participate, help analyse the attack and (hopefully) identify the attacker please contact me on Twitter (<https://twitter.com/ksaitor>)
+In Part 2 I’ll write about incident response, forensics, chain analysis, and hopefully an identification of the attacker. I’ve reached out to a few friends from cyber sec and blockchain space to help me out and piece together the puzzle. If you’d like to participate, help analyse the attack and (hopefully) identify the attacker please contact me on Twitter (<https://x.com/ksaitor>)
 
 ### Credits
 
-[James Pavur](https://www.linkedin.com/in/james-pavur-43119883/), Daniel Aaron, [Tushar Singal](https://www.linkedin.com/in/tusharsingal/), [Sebastien Couture](https://twitter.com/seb2point0), [Hitesh Suresh](https://twitter.com/hiteshsuresh).
+[James Pavur](https://www.linkedin.com/in/james-pavur-43119883/), Daniel Aaron, [Tushar Singal](https://www.linkedin.com/in/tusharsingal/), [Sebastien Couture](https://x.com/seb2point0), [Hitesh Suresh](https://x.com/hiteshsuresh).
 
 Thank you guys for providing feedback and helping bring more clarity to this incident!
 

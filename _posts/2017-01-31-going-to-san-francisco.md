@@ -20,6 +20,6 @@ Excited and worried at the same time.
 
 And therefore, two questions:
 
-- Whom should I meet in SF? Will be grateful for introductions! (Hit me up on Twitter [@ksaitor](https://twitter.com/ksaitor))
+- Whom should I meet in SF? Will be grateful for introductions! (Hit me up on Twitter [@ksaitor](https://x.com/ksaitor))
 
 - Is it a good time to go at all? Should I wait a few weeks/months or will it only get worse?

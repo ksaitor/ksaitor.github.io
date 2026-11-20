@@ -11,37 +11,34 @@ layout: default
     I build products for fun and profit.
     When I'm not working on my own projects, I like helping companies and entrepreneurs with their tech.
     Been coding backends and apps in JavaScript for the past 7+ years.
-    Best way to contact me is on <a href="https://twitter.com/ksaitor">Twitter</a>.
+    Best way to contact me is on <a href="https://x.com/ksaitor">Twitter</a>.
   </p>
 </header>
 
-<hr/>
 <div class="list">
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <div class="list-post">
-    {% if post.link %}
-    <a href="{{ post.link }}">
-    {% else %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
-    {% endif %}
+  <article class="list-post">
       <div class="list-post-date">
-        <time>{{ post.date | date_to_string }}</time>
+        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
       </div>
       <h2 class="list-post-title">
-        {{ post.title }}
+        {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a>
+        {% else %}
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% endif %}
       </h2>
       {% if post.excerpt %}
       <div class="list-post-desc">
         {{ post.excerpt }}
       </div>
       {% endif %}
-    </a>
     <a href="{{ post.url | prepend: site.baseurl }}" class="continue-reading-btn">Continue reading →</a>
-  </div>
+  </article>
 {% endfor %}
   <!-- Pagination links -->
   <div class="list-pagination">

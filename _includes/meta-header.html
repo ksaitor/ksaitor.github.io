@@ -1,15 +1,8 @@
 <div class="meta-header">
-  <a href="{{ site.url }}{{ site.baseurl }}">
-    <!-- <img class="profile-pic" src="{{ site.baseurl }}/assets/images/profile-square-3.png"/> -->
-  </a>
   <div class="text">
     <a class="author" href="{{ site.url }}{{ site.baseurl }}">ksaitor</a>
     <span class="post-date">
-      <time>{{ page.date | date_to_string }}</time>
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
     </span>
   </div>
-  <div class="twitter-conteiner">
-    <a href="https://x.com/ksaitor" class="twitter twitter-follow-button" data-size="mini"> </a>
-  </div>
-  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
