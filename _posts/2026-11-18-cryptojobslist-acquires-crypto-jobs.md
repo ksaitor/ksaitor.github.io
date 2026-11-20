@@ -4,7 +4,7 @@ title: "CryptoJobsList acquires Crypto.jobs"
 description: "CryptoJobsList and Crypto.jobs are joining forces to make crypto hiring simpler and more trustworthy."
 tags: [crypto, startups]
 ---
-I'm excited to share that [CryptoJobsList](https://cryptojobslist.com) has acquired Crypto.jobs. Two job boards that started in 2017 are now coming together.
+I'm excited to share that [CryptoJobsList](https://cryptojobslist.com) has acquired [Crypto.jobs](https://crypto.jobs). Two job boards that started in 2017 are now coming together.
 
 Back then, crypto was much smaller, and finding a job in the industry was tough. Over the years, Crypto.jobs helped more than 3,000 teams hire, including Consensys, CoinList and Parity. At CryptoJobsList, we've worked with over 4,000 projects and reached hundreds of thousands of job seekers each month.
 
