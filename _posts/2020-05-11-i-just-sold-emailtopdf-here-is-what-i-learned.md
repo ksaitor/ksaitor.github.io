@@ -2,7 +2,7 @@
 layout: post
 title: I just sold emailtopdf.it - Here's what I learned!
 image: https://ksaitor.com/images/emailtopdf-sold.png
-description: Here are the things I WISH I knew before starting the selling process. →
+description: "What I learned selling EmailToPDF, from finding a buyer and agreeing on a price to transferring the domain and handing over the project."
 tags:
   - startups
   - howto

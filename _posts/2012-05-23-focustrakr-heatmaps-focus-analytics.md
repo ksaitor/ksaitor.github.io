@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FocusTrakr, Heatmaps and focus analytics"
-description: "Back in 2012 I wrote FocusTrackr — and analytics "
+description: "A look at FocusTrakr, my computer science project for visualizing website visitor attention with interactive heatmaps."
 date: 2012-05-23
 tags: ['javascript', 'js', 'engineering']
 comments: true
