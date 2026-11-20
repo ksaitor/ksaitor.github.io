@@ -1,55 +1,43 @@
 ---
 layout: page
-title: Tags
+title: Browse essays by topic
+description: Browse Raman Shalupau's essays by topic, from startups and engineering to travel and Singapore.
 permalink: /tags/
 ---
 
-{% capture site_tags %}
-{% for tag in site.tags %}
-{{ tag | first }}{% unless forloop.last %},{% endunless %}
-{% endfor %}
-{% endcapture %}
+{% assign sorted_tags = site.tags | sort %}
+<p>Browse essays by topic, or explore the <a href="{{ '/archive/' | relative_url }}">full archive</a>.</p>
 
-{% assign tags_list = site_tags | split:',' | sort %}
-
-<div class="tag-index">
+<nav class="tag-index" id="topics" aria-label="Topics">
   <ul>
-    {% for item in (0..site.tags.size) %}
-    {% unless forloop.last %}
-      {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-      <li>
-        <a href="#{{ this_tag }}">
-          <span>{{ this_tag }}</span>
-          <span class="count">{{ site.tags[this_tag].size }}</span>
-        </a>
-      </li>
-    {% endunless %}
+    {% for tag in sorted_tags %}
+    <li>
+      <a href="#{{ tag[0] | escape }}">
+        <span>{{ tag[0] | escape }}</span>
+        <span class="tag-count" aria-label="{{ tag[1].size }} {% if tag[1].size == 1 %}post{% else %}posts{% endif %}">{{ tag[1].size }}</span>
+      </a>
+    </li>
     {% endfor %}
   </ul>
-</div>
+</nav>
 
-{% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-  <article>
-
-  <div class="tag-title" id="{{ this_tag }}">
-    {{ this_tag }}
-  </div>
-    <ul>
-    {% for post in site.tags[this_tag] %}
-    {% if post.title != null %}
-      <li class="tag-post">
-        {% if post.link %}
-        <a href="{{ post.link }}">
-        {% else %}
-        <a href="{{ post.url | prepend: site.baseurl }}">
-        {% endif %}  
-          <span class="tag-post-title">{{ post.title }}</span>
-        </a>
-      </li>
+{% for tag in sorted_tags %}
+<section class="tag-section" aria-labelledby="{{ tag[0] | escape }}">
+  <h2 id="{{ tag[0] | escape }}">{{ tag[0] | escape }}</h2>
+  <ul class="tag-posts">
+    {% for post in tag[1] %}
+    {% if post.title %}
+    <li>
+      {% if post.link %}
+      <a href="{{ post.link }}">{{ post.title | escape }}</a>
+      {% else %}
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      {% endif %}
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
+    </li>
     {% endif %}
     {% endfor %}
-    </ul>
-  </article>
-{% endunless %}
+  </ul>
+  <a class="tag-back" href="#topics">Back to topics ↑</a>
+</section>
 {% endfor %}

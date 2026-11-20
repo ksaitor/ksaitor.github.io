@@ -16,7 +16,7 @@ layout: default
     <ul>
       {% for tag in page.tags %}
       <li>
-        <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+        <a href="{{ '/tags/' | relative_url }}#{{ tag | escape }}">
           <span>{{ tag }}</span>
         </a>
       </li>
@@ -25,8 +25,10 @@ layout: default
   </nav>
   {% endif %}
 
-  <iframe class="post-subscribe" title="Subscribe to ksaitor" src="https://ksaitor.substack.com/embed" width="100%" height="320"
-    frameborder="0" scrolling="no"></iframe>
+  <div class="post-subscribe">
+    <iframe title="Subscribe to ksaitor" src="https://ksaitor.substack.com/embed" width="100%" height="320"
+      frameborder="0" scrolling="no"></iframe>
+  </div>
 
   <!-- Disqus -->
   {% if page.comments != false and site.disqus.id %}
